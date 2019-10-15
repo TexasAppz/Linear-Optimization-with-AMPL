@@ -1,0 +1,6 @@
+reset;
+reset;
+reset;
+model InventoryLamps.mod;
+solve;
+display xA, xC;
